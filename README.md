@@ -1,5 +1,5 @@
 # Python: WordCloud
-Small word cloud project in Python using PyPDF2, WordCloud, and Matplotlib.
+Small word cloud project in Python using PyPDF2, WordCloud, TextBlob, and Matplotlib.
 
 # Objective
 Create a GitHub repository to showcase a word cloud generated from a CV in PDF format to gain a better understanding of the experience profile.
@@ -8,4 +8,4 @@ Create a GitHub repository to showcase a word cloud generated from a CV in PDF f
 Personal CV. 
 
 # Tools
-PyPDF2, WordCloud, and Matplotlib.
+PyPDF2, WordCloud, TextBlob, and Matplotlib.
